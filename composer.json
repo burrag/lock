@@ -1,0 +1,8 @@
+{
+    "require": {
+        "php": "^8.2",
+        "symfony/lock": "^6.3",
+        "predis/predis": "v2.x-dev"
+    },
+    "minimum-stability": "dev"
+}
